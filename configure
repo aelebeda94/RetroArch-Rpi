@@ -1,10 +1,5 @@
 #!/bin/sh
 
-PACKAGE_NAME=retroarch
-PACKAGE_VERSION=0.9.6
-
-. qb/qb.params.sh
-
-. qb/qb.comp.sh
-
-. qb/qb.libs.sh
+echo "DO NOT USE THIS REPO: USE THE OFFICIAL ONE INSTEAD"
+echo ""
+echo "https://github.com/Themaister/RetroArch"
