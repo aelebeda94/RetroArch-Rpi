@@ -3,3 +3,4 @@
 echo "DO NOT USE THIS REPO: USE THE OFFICIAL ONE INSTEAD"
 echo ""
 echo "https://github.com/Themaister/RetroArch"
+exit 1
